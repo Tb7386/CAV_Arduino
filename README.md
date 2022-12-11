@@ -1,2 +1,2 @@
 # CAV_Arduino
-Cave a vin piloté par Arduino
+Cave a vin pilotée par Arduino
